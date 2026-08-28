@@ -1,0 +1,8 @@
+{
+  "appId": "com.premium3dtimer.app",
+  "appName": "Premium 3D Timer",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
